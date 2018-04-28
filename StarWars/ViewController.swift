@@ -51,7 +51,7 @@ class ViewController: UIViewController {
         
         let person = Person("Luke")
         let person2 = Person(firstName: "Luca", height: 160)
-        let person3 = Person("Luc", height:160, hairColor: .black)
+        let person3 = Person("Lucie", height:172, hairColor: .black)
  //        print(person)
         //        print(person.getName())
         
